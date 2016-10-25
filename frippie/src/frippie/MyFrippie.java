@@ -1,5 +1,5 @@
 package frippie;
-//Hu! Bu!
+//Hu! Bu! Du!
 public class MyFrippie {
 
 	public static void main(String[] args) {
